@@ -1,0 +1,10 @@
+You do not need to enter the codes and set any IP addresses. You just need to run the python code.
+After running the code, it will ask you for the destination IP address.
+As an option, the code can scan specific ports instead of all ports.
+Version scanning is possible.
+
+Kodların içine girip herhangi bir ip adresi set etmenize gerek yoktur. 
+Yalnızca python kodunu çalıştırmanız yeterlidir. 
+Sizden hedef IP adresini kodu çalıştırdıktan sonra kendisi soracaktır.
+Kod seçenek olarak tüm porlar yerine spesifik portları da tarayabilmektedir.
+Versiyon taraması mümkündür.
